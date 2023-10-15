@@ -1,11 +1,11 @@
-About arxiv-miner
-=================
+About arxiv-miner-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/arxiv-miner-feedstock/blob/main/LICENSE.txt)
 
 Home: https://arxiv-miner.turing-bot.com/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/arxiv-miner-feedstock/blob/main/LICENSE.txt)
 
 Summary: Mine and scrape Arxiv papers to structured datasets
 
@@ -43,6 +43,13 @@ Current build status
                 </a>
               </td>
             </tr><tr>
+              <td>linux_64_python3.12.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=16929&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/arxiv-miner-feedstock?branchName=main&jobName=linux&configuration=linux%20linux_64_python3.12.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
               <td>linux_64_python3.8.____cpython</td>
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=16929&branchName=main">
@@ -68,6 +75,13 @@ Current build status
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=16929&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/arxiv-miner-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.11.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_64_python3.12.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=16929&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/arxiv-miner-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_python3.12.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
